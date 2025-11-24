@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/mnt/c/Users/tobia/IdeaProjects/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0.0 API'
+-use
+-version
+-windowtitle
+'library 1.0.0 API'
+models
+ui
+utilities
+/mnt/c/Users/tobia/IdeaProjects/library/src/main/java = 1764000966587
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/allclasses-index.html = 1764008185153
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/allpackages-index.html = 1764008185156
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/copy.svg = 1764008185187
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/element-list = 1764008185006
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/help-doc.html = 1764008185180
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/index-all.html = 1764008185173
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/index.html = 1764008185144
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/link.svg = 1764008185188
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/member-search-index.js = 1764008185162
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/module-search-index.js = 1764008185158
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/overview-summary.html = 1764008185177
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/overview-tree.html = 1764008185142
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/package-search-index.js = 1764008185160
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/script.js = 1764008185186
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/search-page.js = 1764008185193
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/search.html = 1764008185176
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/search.js = 1764008185191
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/serialized-form.html = 1764008185058
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/stylesheet.css = 1764008185183
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/tag-search-index.js = 1764008185164
+/mnt/c/Users/tobia/IdeaProjects/library/target/reports/apidocs/type-search-index.js = 1764008185161
