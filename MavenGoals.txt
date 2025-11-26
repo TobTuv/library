@@ -1,9 +1,8 @@
 1. mvn compile - Kompilirar alla javafiler i main/java och skapar klassfiler i target/classes.
 
-2. mvn Clean - Tar bort klassfilerna så att nästa compile blir helt "ren"
+2. mvn Clean - Tar bort Target katalogen som innehåller bland annat klassfilerna och JAR-filen så att nästa compile blir helt "ren"
 
 3. mvn javadoc:javadoc - Skapar Javadocs för projektets klasser. Javadocs hamnar i target/reports/apidocs.
-
 
 4. mvn test - Kör alla Junit-tester.
 
